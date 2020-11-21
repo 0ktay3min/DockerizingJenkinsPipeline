@@ -10,7 +10,7 @@ You are a DevOps consultant in AchiStar Technologies. The company decided to imp
 -Availability of the application and its versions in the GitHub.
 -Track their versions every time a code is committed to the repository.
 -Build the application in Docker and host it in Docker Hub.
-    - Pull the Docker image and run it again.
+-Pull the Docker image and run it again.
 The company goal is to deliver the product frequently to the production with high-end quality.
 
 
