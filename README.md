@@ -24,7 +24,7 @@ You must use the following tools:
 
 
 Following requirements should be met:
-    • Document the step-by-step process from the initial installation to the final stage.
-    • Track the versions of the code in the GitHub repository
-    • Availability of the application in the Docker Hub
-    • Track the build status of Jenkins for every increment of the project
+    - Document the step-by-step process from the initial installation to the final stage.
+    - Track the versions of the code in the GitHub repository
+    - Availability of the application in the Docker Hub
+    - Track the build status of Jenkins for every increment of the project
